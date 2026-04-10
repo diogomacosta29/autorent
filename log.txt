@@ -1,4 +1,0 @@
-[2026-04-09 21:42:05] | VIATURA | Nova viatura adicionada: Opel Corsa - 00-AE-78
-[2026-04-09 21:44:14] | CLIENTE | Novo cliente registado: Diogo - NIF 243614160
-[2026-04-09 21:46:15] | CLIENTE | Cliente ID 1 atualizado: campo 'cota_mensal' alterado para '50.0'
-[2026-04-09 21:53:38] | ALUGUER | Novo aluguer: Opel Corsa (00-AE-78) -> João Silva | 09-08-2026 a 10-08-2026 | 25.00€
